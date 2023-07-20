@@ -46,7 +46,7 @@ To circumvent this, you have to login into instagram trough whichever tool you c
 1. Take out your data again and put the `liked_posts.json` into this folder
 2. No need to refactor this time, however, you should run the `video.py` script with `python video.py` or `python3 video.py`
 
-# Agknowledgements
+# Acknowledgements
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) for their absolutely bombastic and powerful tool for downloading videos
 - [Instaloader](https://github.com/instaloader/instaloader) for providing a way to actually get the pictures from instagram in a programmatic way
